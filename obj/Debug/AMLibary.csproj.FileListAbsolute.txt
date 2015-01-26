@@ -1,0 +1,15 @@
+C:\Users\Toricima\Documents\Visual Studio 2012\Projects\AMLibary\AMLibary\bin\Debug\AMLibary.exe.config
+C:\Users\Toricima\Documents\Visual Studio 2012\Projects\AMLibary\AMLibary\bin\Debug\AMLibary.exe
+C:\Users\Toricima\Documents\Visual Studio 2012\Projects\AMLibary\AMLibary\bin\Debug\AMLibary.pdb
+C:\Users\Toricima\Documents\Visual Studio 2012\Projects\AMLibary\AMLibary\obj\Debug\AMLibary.csprojResolveAssemblyReference.cache
+C:\Users\Toricima\Documents\Visual Studio 2012\Projects\AMLibary\AMLibary\obj\Debug\AMLibary.Mfield.resources
+C:\Users\Toricima\Documents\Visual Studio 2012\Projects\AMLibary\AMLibary\obj\Debug\AMLibary.Properties.Resources.resources
+C:\Users\Toricima\Documents\Visual Studio 2012\Projects\AMLibary\AMLibary\obj\Debug\AMLibary.csproj.GenerateResource.Cache
+C:\Users\Toricima\Documents\Visual Studio 2012\Projects\AMLibary\AMLibary\obj\Debug\AMLibary.exe
+C:\Users\Toricima\Documents\Visual Studio 2012\Projects\AMLibary\AMLibary\obj\Debug\AMLibary.pdb
+C:\Users\Toricima\Documents\Visual Studio 2012\Projects\AMLibary\AMLibary\obj\Debug\Interop.AXVLC.dll
+C:\Users\Toricima\Documents\Visual Studio 2012\Projects\AMLibary\AMLibary\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\Toricima\Documents\Visual Studio 2012\Projects\AMLibary\AMLibary\obj\Debug\AMLibary.csproj.ResolveComReference.cache
+C:\Users\Toricima\Documents\Visual Studio 2012\Projects\AMLibary\AMLibary\bin\Debug\Interop.AXVLC.dll
+C:\Users\Toricima\Documents\Visual Studio 2012\Projects\AMLibary\AMLibary\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\Toricima\Documents\Visual Studio 2012\Projects\AMLibary\AMLibary\obj\Debug\AMLibary.transfer.resources
